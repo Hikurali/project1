@@ -3,5 +3,5 @@
 
 int main()
 {
-    std::cout << '6';
+    std::cout << '7';
 }
